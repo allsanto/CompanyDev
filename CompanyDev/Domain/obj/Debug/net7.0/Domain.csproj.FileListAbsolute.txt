@@ -1,0 +1,5 @@
+G:\Meu Drive\PROJETOS\Teste Empresa CLT\CompanyDev\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+G:\Meu Drive\PROJETOS\Teste Empresa CLT\CompanyDev\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\PROJETOS\Teste Empresa CLT\CompanyDev\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+G:\Meu Drive\PROJETOS\Teste Empresa CLT\CompanyDev\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+G:\Meu Drive\PROJETOS\Teste Empresa CLT\CompanyDev\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache

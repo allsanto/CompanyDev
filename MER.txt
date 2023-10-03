@@ -1,0 +1,18 @@
+Entidades:
+- Dono
+  Atributos: diretor_id (chave primária), nome
+
+- Gerente
+  Atributos: gerente_id (chave primária), nome, diretor_id (chave estrangeira referenciando Diretor), equipe_id (chave estrangeira referenciando Equipe)
+
+- Equipe
+  Atributos: equipe_id (chave primária), nome
+
+- Funcionário
+  Atributos: funcionario_id (chave primária), nome, equipe_id (chave estrangeira referenciando Equipe), gerente_id (chave estrangeira referenciando Gerente)
+
+Relacionamentos:
+- Diretor possui Gerentes (relacionamento 1:N)
+- Gerente lidera uma Equipe (relacionamento 1:1)
+- Equipe tem Funcionários (relacionamento 1:N)
+- Funcionário pertence a uma Equipe (relacionamento N:1) e tem um Gerente (relacionamento N:1)

@@ -1,0 +1,5 @@
+G:\Meu Drive\PROJETOS\Teste Empresa CLT\CompanyDev\Cross\obj\Debug\net6.0\Cross.csproj.AssemblyReference.cache
+G:\Meu Drive\PROJETOS\Teste Empresa CLT\CompanyDev\Cross\obj\Debug\net6.0\Cross.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\PROJETOS\Teste Empresa CLT\CompanyDev\Cross\obj\Debug\net6.0\Cross.AssemblyInfoInputs.cache
+G:\Meu Drive\PROJETOS\Teste Empresa CLT\CompanyDev\Cross\obj\Debug\net6.0\Cross.AssemblyInfo.cs
+G:\Meu Drive\PROJETOS\Teste Empresa CLT\CompanyDev\Cross\obj\Debug\net6.0\Cross.csproj.CoreCompileInputs.cache
