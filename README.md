@@ -1,21 +1,39 @@
-# CompanyDev
+# CompanyDev - Sistema de Gestão Empresarial
 
-[![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.org/seu-usuario/seu-projeto.svg?branch=master)](https://travis-ci.org/seu-usuario/seu-projeto)
-[![Versão](https://img.shields.io/badge/Versão-1.0-brightgreen.svg)](https://github.com/seu-usuario/seu-projeto/releases)
+## Visão Geral
 
-Gestão de uma empresa
+O projeto CompanyDev é uma aplicação de Gestão Empresarial que visa auxiliar empresas na administração de suas operações internas. Esta plataforma utiliza uma arquitetura moderna e tecnologias de ponta para oferecer uma solução eficiente e escalável para a gestão de uma empresa.
 
-## Tabela de Conteúdo
+**Principais recursos incluem**:
 
-- [Instalação](#instalação)
-- [Uso](#dotnet) 
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- Gestão de funcionários
 
-## Instalação
+## Tecnologias Utilizadas
 
-Usado #mysql, #dotnet, #csharp, #entityframework
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-```bash
-ng new project
+- **Backend**:
+  - .NET 6
+  - Entity Framework
+  - MySQL
+  - Princípios DDD (Domain-Driven Design)
+  - SOLID
+
+- **Frontend**:
+  - Angular 8
+
+## Requisitos de Sistema
+
+Para executar o projeto, você precisa atender aos seguintes requisitos mínimos:
+
+- .NET 6 SDK
+- Node.js e npm (para o frontend)
+- MySQL Server
+
+Certifique-se de ter as versões corretas instaladas em seu sistema antes de prosseguir.
+
+## Configuração do Ambiente de Desenvolvimento
+
+Siga as instruções abaixo para configurar o ambiente de desenvolvimento:
+
+### Backend (.NET 6)
